@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"ASPComment",
+		"BracketHighlighter",
+		"Clientside",
+		"Codeivate",
+		"ColorPicker",
+		"CSS Selector Reveal",
+		"DevDocs",
+		"Emmet",
+		"FileDiffs",
+		"JavaScript & NodeJS Snippets",
+		"JsFormat",
+		"LiveStyle",
+		"Minifier",
+		"Package Control",
+		"Placeholders",
+		"PlainTasks"
+	]
+}
