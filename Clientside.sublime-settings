@@ -18,7 +18,7 @@
 	// jsbeautify settings, see http://jsbeautifier.org/
 	"jsformat": {		
 		// how to output braces: collapse, expand, end-expand
-		"brace_style": "expand"
+		"brace_style": "collapse"
 	},
 
 	// Lint options ===========================
