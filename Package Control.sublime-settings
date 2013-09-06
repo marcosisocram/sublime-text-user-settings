@@ -5,6 +5,7 @@
 		"Alignment",
 		"AngularJS",
 		"ASPComment",
+		"AutoFileName",
 		"BoundKeys",
 		"BracketHighlighter",
 		"Clientside",
@@ -15,6 +16,7 @@
 		"EditorConfig",
 		"Emmet",
 		"FileDiffs",
+		"HTMLAttributes",
 		"JavaScript & NodeJS Snippets",
 		"jQuery",
 		"JsFormat",
@@ -23,6 +25,7 @@
 		"nginx",
 		"Package Control",
 		"Placeholders",
-		"PlainTasks"
+		"PlainTasks",
+		"SublimeSimpleSync"
 	]
 }

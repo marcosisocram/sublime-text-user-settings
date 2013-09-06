@@ -1,9 +1,19 @@
 {
+	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_minimap_border": true,
 	"font_size": 9,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage",
 		"Emmet"
-	]
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1
 }
