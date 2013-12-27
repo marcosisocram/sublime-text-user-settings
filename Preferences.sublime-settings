@@ -1,6 +1,6 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"draw_minimap_border": true,
 	"font_size": 8,
 	"highlight_modified_tabs": true,
@@ -15,5 +15,6 @@
 		"draw_active"
 	],
 	"line_padding_bottom": 1,
-	"line_padding_top": 1
+	"line_padding_top": 1,
+	"theme": "Spacegray.sublime-theme"
 }
