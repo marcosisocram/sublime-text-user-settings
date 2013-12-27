@@ -6,7 +6,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"AdvancedNewFile"
 	],
 	"indent_guide_options":
 	[
