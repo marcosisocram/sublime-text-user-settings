@@ -3,7 +3,10 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"AngularJS",
 		"ASPComment",
+		"AutoFileName",
+		"BoundKeys",
 		"BracketHighlighter",
 		"Clientside",
 		"Codeivate",
@@ -11,15 +14,22 @@
 		"CSS Selector Reveal",
 		"Dart",
 		"DevDocs",
+		"EditorConfig",
 		"Emmet",
 		"FileDiffs",
+		"HTMLAttributes",
 		"JavaScript & NodeJS Snippets",
+		"jQuery",
 		"JsFormat",
+		"JSHint",
 		"LiveStyle",
 		"Minifier",
+		"nginx",
 		"Package Control",
 		"Placeholders",
 		"PlainTasks",
+		"SublimeSimpleSync",
+		"Theme - Spacegray",
 		"ZenCoding"
 	]
 }
