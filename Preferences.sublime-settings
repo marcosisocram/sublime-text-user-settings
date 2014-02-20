@@ -2,9 +2,13 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"draw_minimap_border": true,
+	"draw_white_space": "all",
 	"font_size": 8,
 	"highlight_modified_tabs": true,
-	"ignored_packages": ["Vintage"],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"indent_guide_options":
 	[
 		"draw_normal",
@@ -12,6 +16,5 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"theme": "Spacegray Eighties.sublime-theme",
-	"draw_white_space": "all"
+	"theme": "Spacegray Eighties.sublime-theme"
 }
