@@ -17,6 +17,7 @@
 		"EditorConfig",
 		"Emmet",
 		"FileDiffs",
+		"Handlebars",
 		"HTMLAttributes",
 		"JavaScript & NodeJS Snippets",
 		"jQuery",
@@ -30,5 +31,5 @@
 		"PlainTasks",
 		"SublimeSimpleSync",
 		"Theme - Spacegray"
-]
+	]
 }
