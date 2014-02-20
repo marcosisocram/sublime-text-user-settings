@@ -14,5 +14,6 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"theme": "Spacegray Eighties.sublime-theme"
+	"theme": "Spacegray Eighties.sublime-theme",
+	"draw_white_space": "all"
 }
