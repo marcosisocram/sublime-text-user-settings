@@ -18,6 +18,7 @@
 		"EditorConfig",
 		"Emmet",
 		"FileDiffs",
+		"Git",
 		"Gulp Snippets",
 		"Handlebars",
 		"HTMLAttributes",
@@ -33,8 +34,6 @@
 		"Placeholders",
 		"PlainTasks",
 		"SnippetMaker",
-		"SublimeGit",
-		"SublimeSimpleSync",
 		"Theme - Spacegray"
 	]
 }
